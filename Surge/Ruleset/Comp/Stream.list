@@ -2,8 +2,13 @@
 DOMAIN-SUFFIX,music.mefun.org
 
 # Emby
-# SNTP
+# Using
 DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,jmsuper.com
+DOMAIN-SUFFIX,023168.xyz
+DOMAIN-SUFFIX,lyrebirdemby.com
+DOMAIN,tv.ash.yt
+DOMAIN-SUFFIX,as174.com
 
 # Other
 DOMAIN-SUFFIX,jmsooo.com
