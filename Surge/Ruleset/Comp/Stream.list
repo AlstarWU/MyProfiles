@@ -1,4 +1,11 @@
+# Music
+DOMAIN-SUFFIX,music.mefun.org
+
+# Emby
+# SNTP
 DOMAIN-SUFFIX,cn2gias.uk
+
+# Other
 DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-KEYWORD,magpie
 DOMAIN-SUFFIX,emby.aca.best
