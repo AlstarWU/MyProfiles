@@ -1,2 +1,8 @@
 # 守候影院
 DOMAIN-SUFFIX,cn2gias.uk
+
+# emby专用节点分流
+DOMAIN-SUFFIX,lyrebirdemby.com
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,023168.xyz
+DOMAIN-SUFFIX,misakaf.org
